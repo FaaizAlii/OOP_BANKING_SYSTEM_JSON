@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Faaiz Ali",
+        "father_name": "Muhammad Tariq",
+        "id": 2430,
+        "phone_no": 923012808120,
+        "password": "Pak123pak!",
+        "cash": 2000
+    },
+    {
+        "name": "Abdullah",
+        "father_name": "younas",
+        "id": 9361,
+        "phone_no": 923012808123,
+        "password": "Pakistan399.",
+        "cash": 2500
+    }
+]
